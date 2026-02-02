@@ -1,5 +1,4 @@
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/9aa99464-d339-4afe-b0d2-3efa5aa8bd31" />
-
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/bace1f25-ae36-4a49-bf89-2dbeb10d7d00" />
 
 🏗️ Agentic Database Operations: AI-Driven DBRE Platform
 This platform functions as an autonomous Senior Database Reliability Engineer (DBRE) specialized in high-stakes banking environments. It moves beyond manual lookups to autonomous architectural decisions by combining precise SQL diagnostic scripts ("Hands") with Large Language Model intelligence ("Brain").
